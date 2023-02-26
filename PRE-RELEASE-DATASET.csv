@@ -1,0 +1,613 @@
+Venue,Review ID,review,N/C,Tone
+ShitMyReviews,,The authors are amateurs,1,2
+ShitMyReviews,,"In the list of authors, one wonders whether these authors read the manuscript",1,2
+ShitMyReviews,,"Nothing changes in our collective research programs as a result of this work. Still, the work is well done and needs to appear somewhere in the literature.",3,1
+ICLR,rypT3fb0b_R3,It would have been good to see more discussion or exploration of this .,4,3
+ICLR,Hyp-JJJRW_R1,"For all these reasons , Im afraid I must recommend this paper be rejected . """,3,2
+NIPS,491,"3) I think the comparison in the simulation part is not fair because of the following reasons,   i)  There is no run-time data for the numerical experiments.  Sample complexity is not the only factor that shows the complexity of the algorithm.  In many problems, including compressive linear regression, it is possible to solve the problem with information theoretic bounds for sample complexity at the cost of exponential run-time.  If the claim is having efficient sample complexity, some computational complexity should be included as well.  Moreover, in comparison of different methods, this should be considered.",5,1
+ICLR,HymYLebCb_R2,The proposed image representation is mainly based on a previous work of permutation invariant adjacency matrix .,4,2
+ShitMyReviews,,"This article describes [XY], a research project investigating methods for educational game design. The paper is poorly written"".[full review]",3,3
+ShitMyReviews,,To justify these conclusions and spur the authors onto the better things they are undoubtedly capable of I append some details.,2,2
+Publons,VMS3-2020-Apr-0146.R2,"Dear authors,  
+  
+ thank you for final editing of your manuscript according my suggestions.  
+  
+ My best regards.",3,1
+ICLR,HypkN9yRW_R1,Currently there is a sudden jump between deep learning and the problem of interest .,3,1
+ICLR,Hyp3i2xRb_R3,"Overall , the presented idea is novel to the best of my knowledge and the manuscript is well written .",3,2
+ShitMyReviews,,I concur with the reviewers that the methods are insufficient and thus the conclusion are totally overblown.,3,1
+ICLR,B1EVwkqTW_R2,The paper is readable but it could be more fluent .,4,2
+ICLR,B13njo1R-_R1,- A second testbed ( such as navigation or manipulation ) would bring the paper up a notch .,4,3
+ShitMyReviews,,"Reviewer: 1Comments to the AuthorThis study is weak. not innovation (That is their entire review, on a paper that is an R&R from everyone else)",3,2
+ICLR,B13EC5u6W_R3,The resulting image can be subtracted from the original encoding to highlight problematic areas .,3,1
+ICLR,Hyp3i2xRb_R3,Optimal hyperparameters are usually model specific .,3,2
+Publons,M22010058.R1,"The authors have not responded appropriately to Q14 + Q15  
+  
+ Q14: the answer should be reported in the manuscript itself – including how hypercalciuria was defined  
+  
+ Q15 – phosphorous is considered of importance I relation to renal calcification – the lack of any effect needs to be further highlighted in the manuscript and is appropriate to discuss",5,2
+Publons,DOM-21-0882-OP.R1,Thank you for your answer! I have no comments to add,3,2
+ICLR,B11bwYgfM_R3,"I think there are some interesting ideas in this paper , and the use of matrix completion techniques to deal with a large number of tasks is nice .",4,3
+ShitMyReviews,,To put it bluntly: The last thing I want is a reviewer rejecting my papers with reference to an ideological paper like this one.,1,1
+NIPS,239,"Furthermore, in my opinion the authors tend to overstate their contributions w.r.t existing methods, in particular the one in [17] (point #1 below). Finally, the experimental evaluation on image generation is a bit lacking (point #3 below). My current vote is for rejection, but I'm willing to increase my score given satisfying answers to the following three main points: ",5,1
+ICLR,,Authors seems kind of strange .,1,1
+ICLR,rywHCPkAW_R2,""" This paper introdues Noisy Nets , that are neural networks whose parameters are perturbed by a parametric noise function , and they apply them to 3 state of the art deep reinforcement learning algorithms : DQN , Dueling networks and A3C .",3,2
+ICLR,B1zlp1bRW_R4,Major comments : flawed,1,2
+ICLR,HytSvlWRZ_R1,- In section 2.2 and 4 there is some confusion between iteration indices and samples indices i .,3,3
+ICLR,rywHCPkAW_R1,Its disappointing .,2,1
+ShitMyReviews,,I find the title and the main premise of the abstract confusing and illogical. [key concept X] has the logic of a Monty Python sketch,3,2
+Publons,DOM-19-0402-RA,"This is an interesting consensus statement. 
+ 
+ 
+ 
+ It addresses relevant issues in this specific population.
+ 
+ 
+ 
+ Minor comment:
+ 
+ 1. Please enlarge on section 7.",4,2
+ICLR,HypkN9yRW_R1,"- The IEP ( Cells ) module ( Johnson et al . , 2017 ) seems to do all the heavy lifting in my opinion .",2,1
+ShitMyReviews,,"Can you explain this part a bit further, but without going into detail.",3,2
+ICLR,Hyp3i2xRb_R1,"Authors evaluate their RIN on the adding , sequential MNIST and the baby tasks and show that their IRNN outperforms the IRNN and LSTM models .",3,2
+ICLR,HyrCWeWCb_R3,The paper largely follows the work of Nachum et al 2017 .,3,1
+ShitMyReviews,,Use of words like 'performativity' (is that a word?),2,1
+ICLR,SySpa-Z0Z_R2,"Terms like this will emerge in many other models , where one assumes diagonal covariance Gaussians ; in fact the easiest model to justify this penalty is just to say one introduces diagonal Gaussian prior over activations , and thats it .",5,1
+ShitMyReviews,,That gives a ridiculous demonstration where authors forgot science and reinvent history (...) the authors don't have a clue of what was already done in the literature.,1,3
+Publons,DOM-19-0797-OP.R2,There are no additional comments. I am convinced again that the revised manuscript has already been completely revised.,3,2
+ICLR,HymuJz-A-_R2,"Also , I cant tell if I really fully believe the results of this paper .",2,3
+ShitMyReviews,,That's not how science is done.,2,1
+ShitMyReviews,,"While the problem is a very important one for modern society, the topic and lessons are not of broad interest.",2,1
+ICLR,rytstxWAW_R2,"3 ) what loss g is used in experiments ? """,3,2
+ICLR,B16yEqkCZ_R1,The authors propose to train a predictive model that lead to catastrophes .,2,1
+ICLR,rytstxWAW_R4,"I think that this paper mostly looks solid , but I am a bit worried about the following assumption : Specifically , we interpret that graph vertices are iid samples of some probability distribution .",3,1
+ShitMyReviews,,Ah-now I see a glimpse of promise in this paper,2,1
+Publons,MEE-20-11-869,"Please, consider carefully my comments in the attached file.",3,3
+NIPS,630,"While there is not much related work, I am wondering whether more experimental comparisons would be appropriate, e.g. with min-max networks, or Dugas et al., at least on some dataset where such models can express the desired constraints. - The technical delta from monotonic models (existing) to monotonic and convex/concave seems rather small, but sufficient and valuable, in my opinion.",5,2
+ICLR,B17JTOe0-_R3,"The manuscript is not written in a way that is suitable for the target ICLR audience which will include , for the most part , readers that are not expert on the entorhinal cortex and/or spatial navigation .",4,2
+ICLR,B1J_rgWRW_R3,I think these contributions are unwarrant publishing the paper at ICLR 2018 .,2,1
+ShitMyReviews,,"Focus on limitations, because they are many!",3,3
+ShitMyReviews,,It is not clear what the author wants to accomplish.,1,3
+ShitMyReviews,,Come on please!!!,1,2
+ICLR,ryserbZR-_R3,""" The authors approach the task of labeling histology images with just a single global label , with promising results on two different data sets .",4,3
+ICLR,B1EA-M-0Z_R1,"In other words , how cunningly structured is this paper, or is it mostly a cute mathematical trick?",1,3
+Publons,DOM-20-0317-BR.R1,The authors have satisfactorily responded to all my questions and made the necessary changes to the manuscript. I have no further concern.,3,3
+ShitMyReviews,,"Since the paper is mathematically empty and, compared with the conference version, provides no new ideas or findings, in general, I see no reason why it should be published in a journal as well.",3,3
+Publons,DOM-21-0179-OP,"Well written, concise manuscript providing clinically relevant data regarding add-on therapy of liraglutide to SGLT2i +/- metformin. Congratulations. 
+  
+ Please see my comments in the pdf document. 
+  
+ Please consider the anaylses of HOMA.IR and the assessment of an inverse-U-shaped correlation.",4,1
+ShitMyReviews,,Your proposed method should be compared with another method that introduced in a prestigious paper'[full review],4,2
+ICLR,B1e5ef-C-_R3,My most criticism regarding this paper is the narrow scope,2,2
+NIPS,286,All theories in section 2 could be generalized to the unit sphere?  [Fixing alpha] It seems to be too restrictive to fix alpha=1. It could be possible to generalize the theory to smaller alpha values?  [Lack of comparison] There exist many similar works to learn a classifier with heavy-tail distributions.,5,1
+Publons,DOM-21-1253-COM.R1,Changes made by the authors are acceptable.,3,2
+ICLR,ryserbZR-_R1,"Although the result are good and the method interesting , I think that the technical contribution is a bit thin for a ML conference and this paper may be a better fit for a medical imaging conference .",3,1
+ShitMyReviews,,The original study was published in PsycScience. This is just some work by a grad student. Reject.,2,1
+ICLR,HymYLebCb_R1,"Perhaps this is due to a lack of available graph training data , but it doesnt seem to make a lot of sense .",3,3
+Publons,VMS3-2021-Jul-0462,"Very well-written, interesting, and complete case report.  
+ Few comments: 
+ Line 47: CT-guided instead of Ct-guided  
+ Line 103: sclerotherapy- add reference Anson et al. 
+ Line 128: dorsal plane instead of frontal plane 
+ Add a conclusion.",5,1
+ICLR,ryykVe-0W_R1,"The method seems interesting , but the presentation has a severe lack of focus .",3,1
+ShitMyReviews,,Reviewer #1: 'The project can hardly be described as high risk/high gain' Reviewer #3: 'The project is clearly high risk/high gain,2,3
+ICLR,HytSvlWRZ_R3,"Conclusion : Though with a quite novel idea on solving multi task censored regression problem , the experiments conducted on synthetic data and real data are not convincing enough to ensure the contribution of the Subspace Network .",3,3
+ICLR,B11bwYgfM_R3,"Without good reasoning from the authors , I see no reason why the entries in the row of a matrix should have a normal like distribution .",4,1
+ShitMyReviews,,"First, unless my statistics is failing me, a less than 1.0 SD is not significant.",2,1
+ICLR,rytstxWAW_R3,Please add label axes to Figure 2 ; currently it is very hard to read .,3,1
+ICLR,rydeCEhs-_R3,It is not clear whether this is a new contribution of this paper or whether the authors merely adopt this idea .,3,2
+ShitMyReviews,,"Like Dr Who's Tardis, the inside of the paper is bigger than the outside.",2,2
+ShitMyReviews,,This is a paper struggling not to die,2,1
+ShitMyReviews,,"The enormous and overwhelming -not to say pathetic- admiration, even adoration of the author for her subject is barely acceptable anymore for a modern biography.",2,2
+ShitMyReviews,,What is a 'systematic' review? I have never heard of an unsystematic review.,1,2
+ICLR,HypkN9yRW_R3,3.t The discussion on the tradeoff between tacking difficult problems and using the knowledge of program structure is engaging .,3,2
+NIPS,96,"Additionally it would also be interesting to see a few examples of pruned filters which have been transformed back into the spatial domain and compare them against the original, unpruned version.",5,2
+ICLR,HypkN9yRW_R1,""" Summary : This paper leverages an explicit program format and proposes a stack based RNN to solve question answering .",3,2
+ICLR,ry4SNTe0-_R1,I need to say the paper is poorly written and not properly polished .,3,2
+ICLR,B13njo1R-_R2,"PLAID masters several distinct tasks in sequence , building up skills by learning related tasks of increasing difficulty .",3,2
+ShitMyReviews,,"Overall, the superheated sense of justification and self-advertising on display here are simply demeaning.",2,1
+ICLR,HymYLebCb_R2,It will be better to make the notations easy to understand and avoid any notation in a sentence without explanation nearby .,4,1
+ICLR,HymuJz-A-_R1,Pros Important message about network limitations .,2,3
+ShitMyReviews,,They show they can account for 20% of the variance. NoÂ wonder. The usually accepted level is 50% to be useful.,2,2
+ICLR,ryykVe-0W_R2,"5 ) Section 3.1 : This section is devoted to generating samples from the product of the marginals , even using separate generator networks .",3,2
+ICLR,rytstxWAW_R1,"Later on , sampling from P becomes equivalent to uniform sampling over the observed nodes .",3,2
+ICLR,SySisz-CW_R1,They also claim that this analysis can be used to improve the performance of the models .,3,2
+ShitMyReviews,,"Moreover, it is unclear whether the effect is sufficiently important to warrant replication.",2,3
+ICLR,B13EC5u6W_R1,"It would be v interesting ( and provide a good baseline ) to use a shallow network ( i.e . PCA ) instead , and elucidate what advantages the deep network brings .",4,2
+ICLR,rywHCPkAW_R2,"At the top of p3 , you may update your list with PPO and ACKTR , which are now "" classical "" baselines too .",3,1
+ICLR,SySisz-CW_R2,""" This work exploits the causality principle to quantify how the weights of successive layers adapt to each other .",3,2
+NIPS,220,"The paper seems well-written and technically sound. I also believe that the application is very important. Estimating conditional distributions is a very difficult and important task. However, it is  not easy to read it and the presentation of used techniques can be improved.  ",3,2
+ICLR,rkhxwltab_R2,The contribution of the paper is not clear .,2,2
+ICLR,rkc_hGb0Z_R2,The paper oversells the approach in many ways .,1,3
+ICLR,ryserbZR-_R1,""" This paper describes a semi supervised method to classify and segment WSI histological images that are only labeled at the whole image level .",5,1
+ICLR,ryserbZR-_R1,Experiments are run on 2 public datasets achieving potentially top performance .,3,3
+ShitMyReviews,,"Moreover, it is very difficult to see the actual contribution this manuscript will have",2,1
+ShitMyReviews,,I recommend the publication even if I am not impressed,2,1
+Publons,ELE-00254-2021,The authors did a great job to respond to my and the other reviewers' criticisms. I have no further point to raise.,3,3
+ICLR,ryserbZR-_R2,"It correctly identifies the problem that DL usually requires large image databases to provide competitive results , while annotated histopathological data repositories are costly to produce and not on that size scale .",3,3
+ICLR,Hyp3i2xRb_R3,2034-2042 . 2016 .,3,1
+ICLR,Hymt27b0Z_R2,"More problematic is that , right after eq .10 , the authors mention "" We show in the Appendix that OMIE has the desirable strong consistency and convergence properties "" . However , the appendix doesnt contain such a proof .",4,3
+ShitMyReviews,,I am not convinced if any clear real value of this research.,2,3
+ICLR,B1KFAGWAZ_R3,It is furthermore not clear whether training was carried out on multiple seeds or whether these are individual runs .,3,1
+ShitMyReviews,,"I understand that Wikipedia is not the best source for my information, however, I don't have access to the [peer-reviewed] literature you cite, and based on the information from Wikipedia, your hypothesis breaks down.",2,3
+ICLR,HypkN9yRW_R1,So its not very surprising that the proposed method can outperform Fi LM ( by a little bit ) .,2,2
+Publons,M22020069.R1,I thank the authors for addressing any of my comments.,3,2
+ShitMyReviews,,"The research team cooked up a great filet mignon. Instead of mushrooms and an exquisite French sauce, we got American ketchup.",1,1
+ICLR,rypT3fb0b_R2,I liked figure 6.d and would vote for inclusion in the main paper .,4,1
+ICLR,B13njo1R-_R3,"Indeed , because the retention of tasks is done by distilling all of them jointly , one baseline is to keep finetuning a model through the 5 stages , and then at the end after collecting the 5 policies you can do a single consolidation step that compresses all .",4,3
+ShitMyReviews,,"Not sure how to say this diplomatically, but the manuscript is really dull",1,2
+ShitMyReviews,,"So, what is the point of this?",1,2
+ShitMyReviews,,"In a nutshell, please cut out all the hype, show some integrity, and write a balanced paper.",2,1
+NIPS,701,"The paper is solid and describes a major contribution to the field of Statistical Machine Learning.  Edward2 is a leap-forward over the existing state-of-the-art, i.e. Edward. I expect it to allow for significantly improved development times for statistical models. ",3,1
+ShitMyReviews,,It just doesn't make sense.,2,2
+ShitMyReviews,,This book has more mistakes than a hound has fleas,1,1
+ShitMyReviews,,"This is a well-intentioned but naïve and unscholarly presentation of a point of view that is not well-supported by evidence – a polemic, not a review",3,1
+ShitMyReviews,,"I was originally very excited to review this paper, since such a bridge would span uncharted lands – here be dragons! High was my expectation, and so much deeper was my disappointment",2,1
+Publons,VMS3-2020-Feb-0047.R3,Well done i am happy with the article,3,2
+NIPS,719,"However, a few additional experiments should be considered to make the paper stronger, and to back up the claim of state of the art, which I currently donât see fully supported.   If the additional suggested experiments (in particular a SMILES-LSTM baseline) are provided, I would increase my evaluation from 7 to 8, regardless of the outcome of the comparison experiments. ",5,3
+ICLR,ryserbZR-_R1,"Potentially , because all other methods supposedly make use of segmentation labels of tumor , while this method only uses the whole image label .",3,2
+ICLR,rytstxWAW_R4,Experimental results demonstrate a significant speedup in per batch training time compared to previous works while retaining similar classification accuracy on standard benchmark datasets .,2,2
+NIPS,50," I also invite the authors to reconsider the following statements which are incorrect / misleading. (a) ""Most recently, Dai et al. [10] used reinforcement learning to train a deep Q-network (DQN) to incrementally construct solutions to graph-based NP-hard problems, and showed that this approach outperforms prior learning-based techniques."" - For tasks where the methods are comparable (and compared), Dai et al report worse results when reimplementing NCO than those initially reported in NCO paper. Careful reading indicates that they used a moving average baseline instead of a critic, they don't use the fact that NCO can sample many solutions as one, etc... ",5,1
+ShitMyReviews,,Didn't like this one,1,2
+ICLR,rywHCPkAW_R2,"By the way , a wild question : if you wanted to use Noisy Nets in an actor critic architecture like DDPG , would you put noise both in the actor and the critic ?",3,1
+ShitMyReviews,,There is no point in commenting on the statistical overkill in the submission. It simply should not have happened. It should never happen again.,2,3
+ICLR,HytSvlWRZ_R2,"However , for some key steps in the proof , they refer to other references .",2,1
+ICLR,B1G6uM0WG_R2,"There are vague references to the policy being difficult to define , but that motivates the importance of negligance in general , not deep RL .",4,3
+ICLR,HymYLebCb_R2,"( incomplete sentence ? P5 ) """,2,2
+ShitMyReviews,,This was a well-written study that upon my first reading appeared flawless.,3,2
+ICLR,rkYTTf-AZ_R2,The results are interesting ( but perhaps less interesting than what is hinted in the abstract ) .,3,2
+ICLR,SySpa-Z0Z_R2,Pros : - empirical improvements shown on two different classes of problems .,3,2
+ICLR,Hymt27b0Z_R1,"- In the GAN setting , I am failing to see why one would use a MI regularizer over an entropic regularizer .",3,2
+Publons,VMS3-2020-Sep-0438.R1,"hi  
+ thanks for edition of article  
+ best",3,2
+ICLR,B11bwYgfM_R2,"- As mentioned above , the proposed method can be computationally expensive ( when used for MTL ) , but no timing results are reported .",4,1
+ICLR,B1nxTzbRZ_R2,All of their work is based on defogging clarity.,2,3
+ICLR,B1G6uM0WG_R2,"* The paper overstates the contributions of Q masking , emphasizing improvements to data efficiency among others .",3,2
+ShitMyReviews,,The paper was so boring I fell asleep halfway through,2,2
+Publons,ITEES-21-1848.R1,I congratulate the author for the work,3,2
+ShitMyReviews,,The whole piece presents a non-argument. It simply confirms something self-evident and dresses it up as remarkable by building up a straw man that is duly demolished.,3,1
+ICLR,B1EVwkqTW_R1,"It sometimes uses vague/nonstandard terminology ( "" parameterless "" ) and statement .",4,1
+ShitMyReviews,,"I recommend acceptance, provided the editors are willing to stretch the standards for publication a bit",3,1
+ICLR,HymuJz-A-_R1,Cons Straightforward testing of network performance on specific visual relation tasks .,3,1
+ICLR,B1IDRdeCW_R1,"To summarize , the first part is interesting and nice , the second part was not clear to me , and the last part does not seem very useful .",3,2
+ICLR,B1ZZTfZAW_R3,I would have difficulty trusting any experiments using the synthetic data .,3,1
+ICLR,B1J_rgWRW_R1,"However , the construction seems artificial and these functions dont seem to be visually very complex .",2,2
+Publons,DOM-20-1523-BR,"1. Briefly explain the figure in the legend 
+  
+ 2. Why there is no ethics approval?",3,1
+ICLR,HyrCWeWCb_R3,It is hard to judge the significance of this extension .,2,2
+ICLR,Hyp-JJJRW_R1,"If thats not the motivation , then what is it ?",4,3
+ICLR,B11bwYgfM_R3,"Prior techniques which can address some of these aspects do not necessarily work with deep learning , which is a key focus of the paper .",3,2
+Publons,ACP-2021-10336.R1,"The authors have addressed previous remark sufficiently. The use of the MADRS-S remains a point of discussion as do the various cut-offs used. But as correctly stated, improves comparability. It would be advisable to demonstrate clinical validity of the cut-offs and the scale used.",5,3
+ShitMyReviews,,My major concern to accept this work-in-progress paper is that these findings are not super interesting to readers in my opinion.,2,3
+ICLR,HytSvlWRZ_R3,"4 . Typo : In Table2,3,5 , Multi l_ { 2,1 } ( denotes the L2,1 norm ) were written wrong .",3,3
+ICLR,B1KFAGWAZ_R2,"Second , even though the proposed architecture proved to perform empirically better that the considered baselines , the extent to which it advances RL research is unclear to me .",3,2
+ICLR,HytSvlWRZ_R3,SN model outperforms the state of the art with only small margin .,3,3
+ICLR,B13EC5u6W_R2,This looks very noisy and non interesting .,3,1
+ICLR,HytSvlWRZ_R2,"Thus , I would like to see a comparison between SN with vanilla DNN .",4,1
+ShitMyReviews,,"This article describes [XY]Â, a research project investigating methods forÂ educational game design. The paper is poorly written"".[full review]",2,3
+ICLR,Hymt27b0Z_R1,"Similarly , if you want to prove something about GANs you probably have to make assumptions too .",4,2
+Publons,DOM-19-0873-BR,"A well written paper, with arguments clearly constructed. I did not find any typographical errors. 
+  
+ I have one suggestion. On page 5, last line it says â€œthe other statistically significant variable in the model was number of meals per dayâ€. I think this point ought to be expanded upon, presumably more meals decreases the TIR, and this is a further limitation of this kind of system.",4,2
+Publons,VMS3-2020-Mar-0130.R1,Necessary comments are being attached.,3,1
+ICLR,B1EPYJ-C-_R3,The authors do not provide any analysis about what can be learned from this paper.,2,3
+NIPS,719,"Lemma 2: The lack of uncertainty propagation in standard supervised learning methods is an important point indeed. However, you specifically introduce it as a problem of variational inference, while I think it is a problem that applies to all uncertainty methods from supervised learning used in RL, when their output distribution and loss only concern a mean. ",5,1
+ICLR,B1D6ty-A-_R2,"The main application of this paper is autoencoders , which are functions from R^d -> R^d .",3,2
+ICLR,SySisz-CW_R1,Grammatical and spelling mistake are frequent .,3,3
+ICLR,HytSvlWRZ_R3,2 . On line settings to train parameters ( guaranteed convergence in a single pass of the data ) Weakness : 1 .,3,2
+ICLR,B1KFAGWAZ_R2,"To make the paper stronger and justify importance of the proposed architecture , I suggest authors to consider relaxing assumptions on the communication protocol to allow delayed and/or noisy communication ( including gradients ) .",5,3
+ShitMyReviews,,Authors rarely followed the advices,1,3
+ShitMyReviews,,"I am sure that you would find what you expect, but I question its value as research",2,1
+ICLR,HypkN9yRW_R1,"I think they have fairly similar structure , at least conceptually , the stack RNN can be thought as a tree parser .",3,2
+ICLR,Hyp-JJJRW_R2,They do not show convincingly that the network managed to learn interesting class specific and class agnostic representations .,4,1
+ICLR,HytSvlWRZ_R1,Other remarks .,1,1
+ShitMyReviews,,"This paper is conceptually unclear, and the causal argument/hypotheses are muddled. In short, it is a mess. I stopped reading after page 7.",2,2
+ShitMyReviews,,I would drop the first clause in the paper title. It does nothing other than degrade the scientific integrity of the work.,3,3
+ShitMyReviews,,It is not hard to develop this method…I could write code for this on a rainy afternoon.,2,2
+ICLR,HymuJz-A-_R2,"I cant point to exactly what would have to be different to make things "" work "" , because its really hard to do that ahead of actually trying to do the work .",2,3
+Publons,WE-20-0292.R2,"In Table 3 there are two sets of data for H80.  
+ 𝐸11 = 𝐸22 = 48, 𝐸33 = 90  
+ and  
+ 𝐸11 = 𝐸22 = 55, 𝐸33 = 98  
+ It is not clear which one of these two sets is used in the modelling. I raised this but the response is irrelevant. Please ask authors to amend this in proof reading. No need for my review.",5,2
+ICLR,B1EPYJ-C-_R3,"Furthermore , the paper is easy to read with good organization .",3,2
+ICLR,rkA1f3NpZ_R2,"For this reason , I do not recommend this paper for acceptance .",3,2
+ICLR,HymuJz-A-_R2,"How do the authors know that humans are effectively generalizing rather than just "" interpolating "" within their ( very rich ) training set ?",3,2
+ShitMyReviews,,Usually climate studies do not show a good method for the proposed research. This is one of them.,2,1
+ICLR,Hyp-JJJRW_R1,I dont find the reconstructions demonstrated particularly compelling ( they are generally pretty different from the original input ) .,2,1
+ICLR,BJE-4xW0W_R1,not particularly impressive that is an issue for me .,2,1
+Publons,ITEES-19-1547.R1,The revised paper can be accepted.,3,3
+ShitMyReviews,,One wonders whether the analysis was an exercise in using a cannon to open an unlocked door.,2,2
+ShitMyReviews,,"Unfortunately the manuscript is not well structured and the English is very poor. Usually I would attempt to improve this, but in this case the entire manuscript needs to be reworked - starting with the tittle.",3,1
+Publons,VMS3-2020-May-0234,"In Introduction: I suggest to rewrite this section by providing proper justification of this study. I also suggest to cite appropriate latest references in each statement.  
+  
+ Materials and Methods: I suggest to cite appropriate latest references in each subheading.  
+  
+ Fig. 1 and 2: Please add DNA Marker in both sides of the expected bands.",5,3
+Publons,VMS3-2020-Jun-0265.R1,"Thanks for the revisions. I only a very little comments to be corrected. 
+  
+ Running head: 
+ Juvenile Canine Thoracic Tumor – the running head is still not adequate: the term juvenile tumor suggests that the tumor is juvenile…What about: Neuroectodermal tumor in a juvenile dog  
+  
+ Line 24 rare tumors in juvenile – subject missing or correct to juveniles  
+ line 80: eighted turbo spin echo (TSE) –missing letter",5,3
+ShitMyReviews,,"It is very well done, but sits somewhat in isolation from other schools of thought. It is -and I mean this with no disrespect to the author - a sort of echidna or platypus of a paper.",2,3
+ShitMyReviews,,"Frankly, she knows nothing about invasion biology or the Great Lakes and should stick with what she does know.",1,2
+ICLR,B11bwYgfM_R3,"In this case , the means are standard deviations do not even make sense to me .",2,1
+ShitMyReviews,,This paper still reads in places more like alternative fan-fiction than scholarship.,1,2
+Publons,ITEES-19-1311,"Some questions are listed below:  
+ 1. Fig.1 shows that the power converter is a half-controlled rectifier. How about driving mode? Is another PWM converter working when the car is in a driving mode?  
+ 2. The experimental part does not contain any waveforms showing the results are from experiments. Please at least present some figures of capacitor voltage and current in this part.",5,3
+NIPS,206,"I am not an expert on submodular optimization, I therefore only focussed on the convex optimization problem and the coordinate descent algorithm part.  Algorithm 1 is a way how to implement the standard coordinate descent algorithm when probabilities of choosing coordinates are coming from given distribution P.  the description of the algorithm is following the standard in the literature  ",3,2
+ICLR,BJB7fkWR-_R1,My opinion is that this paper is waste of time.,2,3
+ShitMyReviews,,"This will never work: Negative reviews of famous, ground-breaking papers. http://www.fang.ece.ufl.edu/reject.html"">http://www.fang.ece.ufl.edu/reject.html",1,2
+ICLR,B1D6ty-A-_R2,Each minimization problem is not convex but is quasi convex and hence one can use stochastic normalized gradient descent to minimize w.r.t . each variable .,4,1
+ICLR,SySpa-Z0Z_R2,"From practical perspective : Activation norm penalties are well known objects , used for many years ( L1 activation penalty for at least 6 years now , see "" Deep Sparse Rectiufb01er Neural Networks "" ; various activation penalties , including L2 , changes in L2 , etc . in Krueger Ph D dissertation ) .",5,3
+ICLR,B13EC5u6W_R3,This gives an image that is similar to the original but with features that caused the classification of the disease removed .,3,3
+ICLR,Hymt27b0Z_R2,"While that last work introduced an estimator based on optimization over the unit ball in an RKHS , the current work propose to use a parametric function class given by a neural network ( Id suggest that the authors make this point more explicit , as currently its not totally clear what their actual contribution is and how their work compares to the prior art they cite ) .",5,1
+ICLR,HJLPel-CW_R3,"Style transfer has two key components , the first is how well it is transferred to the target style ; second is how well it preserves the original contents .",3,1
+ShitMyReviews,,The experimental design is a bit funny,2,1
+ShitMyReviews,,"Which means that, as the saying goes, if their results are correct they cannot be new, and if they are ""newâ€ they cannot possibly be correct.Frankly, it is hard to say which is the case",2,2
+ShitMyReviews,,The last two sentences of the summary greatly exaggerate the value of this paper and the usefulness of its conclusions.,2,2
+Publons,VMS3-2019-Nov-0294.R2,congratulations,1,2
+ShitMyReviews,,The discussion is inappropriate and the new content is generally poorly written,3,2
+ICLR,B1G6uM0WG_R1,It was not clear from this presentation how the human participants were rewarded for their performance .,4,3
+ICLR,ryykVe-0W_R1,"Linear ICA is a solved problem and the authors do not seem to be able to add anything there , so I would recommend dropping that to save space for the more interesting material .",3,2
+ICLR,Hyp3i2xRb_R3,Were these experiments run until completion ?,3,3
+ICLR,B1CNpYg0-_R2,None of these ideas are new before but I havent seen copying this blindly before .,2,3
+ICLR,HyrCWeWCb_R2,"When a policy is required to pass through a very narrow tunnel of states , the regularization that forces a wide action distribution could not have a good performance .",3,2
+ShitMyReviews,,This work amounts to a form of methodological perfectionism. Perfectionism can be the enemy of the possible in science.,2,2
+NIPS,49,"Quality: Overall, the writing quality is good, the main idea is clearly presented. Clarity: The notations are well-organized and easy to interpret. Originality: It is an incremental work with limited novelty. Significance: Theoretical proofs are missing, experiments should add more powerful baselines. [1]. J. Zhou. MALSAR: Multi-task learning via structural regularization. ",5,2
+NIPS,96,"Also note that the SMILES-RNN does not need any masking, or sophisticated preprocessing!), to compare to a well-tuned  SMILES-based LSTM (start with 3 layers x 512 dim) â also keeping in mind the results by Melis et al. ICLR 2018 for language models. In practice, the SMILES-RNN is widely and successfully used, and actually molecules designed by it have been made in the lab and tested ",5,2
+ICLR,ryZElGZ0Z_R3,"However , I felt that the central ideas were only thinly vetted .",3,1
+Publons,IGJPS-2019-MSA-0253,"Minor corrections are required.
+ 
+ Reference numbers are not in sequence
+ 
+ Some references are not as per guideline.",4,2
+ShitMyReviews,,In order to be able to publish this manuscript it need [sic] to be rewritten in the form of a scientific article,3,2
+ShitMyReviews,,"DO NOT have your heroes set the villain on FIRE. It's actually considered a war crime, and it is a very gruesome experience leaving horrific scars and affecting health for the rest of your life. It tends to make the heroes look like major arses.",1,2
+ICLR,B16_iGWCW_R2,This paper instead designed a new boosting method which puts large weights on the category with large error in this round .,3,2
+ShitMyReviews,,"Unfortunately, I cannot recommend this paper for publication because its contents violate the laws of physics",3,2
+ICLR,HymuJz-A-_R2,"After all , when we humans generalize to understanding relationships , exactly what variability is present in our "" training sets "" as compared to our "" testing "" situations ?",3,1
+NIPS,432," Theorem 2 is fairly restrictive since it has to assume convexity, but I see from the examples that there are indeed losses that satisfy EBC for theta > 0 yet are not strongly convex.  * Theorem 3: To make the paper more comprehensive it would be better if this result could be extended to L*-dependent regime studied in Theorem 2. Also, please add more discussion as to why adapting to the parameter theta is a major technical challenge,",5,1
+ICLR,HyrCWeWCb_R3,"Finally , the Lagrange parameter is estimated from the trust region method .",3,3
+ICLR,rytNfI1AZ_R2,"The approach is precisely described although the text sometimes could be a bit clearer ( for example , the text contains many important references to later sections ) .",4,3
+ICLR,B14uJzW0b_R2,"I also appreciate the effort of developing theoretical results for deep learning , even though the current results are restrictive to very simple NN architectures .",3,2
+ShitMyReviews,,The English language ranks this manuscript among the top 5 worst manuscripts I have ever reviewed,2,3
+ICLR,B1CQGfZ0b_R2,"Once getting into the details of the proposed approach, the quality takes a downturn , unfortunately not a woman's job.",1,2
+Publons,ITEES-19-0979,"1. Literature survey is not sufficient to support the research paper  
+  2. Why STATCOM model is enabled at t=2.5s ?  
+ 3. Why simulation time is taken only 5s?  
+ 4. How resistor and inductance value has arrived?  
+ 5. The model parameters are not mentioned. Why?  
+ 6. how the range of modulation index has arrived?  
+ kindly add answers of above questions in your research paper",5,2
+Publons,M19110783.R1,"The authors have addressed my comments in a satisfactory manner. However, one minor issue remains. In the listing af CV% for CTX it is stated that ""... intra- and interassay CVs  
+ <11 and <3%, respectively)"". It is strange, though, that intraassay variation is much higher than interassay variation. Please check if this is correct or if there is a mix-up of the two CVs.",5,3
+ShitMyReviews,,"The authors use a log transformation, which is statistical machination, intended to deceive",3,1
+ICLR,HytSvlWRZ_R1,Is there anything that I am missing ?,1,2
+NIPS,595,"The paper presents a new idea, which is very important in my eyes. The authors propose to jointly train two opposing tasks, in this case an image captioning and image generation model. They prove the effectiveness of their idea, whihc is also of interest for many other applications.",3,2
+ICLR,HJLPel-CW_R3,"However , the metric that using a pre trained style classification network has issues in terms of evaluating how well the original content is preserved .",3,3
+ICLR,HytSvlWRZ_R3,The assumption that a low rank parameter space exists among tasks rather than original feature spaces is not new and widely used in literature .,2,2
+ICLR,Hyp3i2xRb_R2,"3 . The paper proposed the new architecture RIN , but it is not much different than a simple RNN with identity initialization .",2,1
+ICLR,HyrCWeWCb_R2,The major weakness of this paper is the unclear presentation .,2,2
+ICLR,ryykVe-0W_R3,The key idea of adversarial training is adapted in this context as comparing samples from the joint distribution and the product of the marginals .,3,2
+ICLR,HypkN9yRW_R3,"Overall : The experimental results look good , however , the proposed model needs to be better motivated .",3,1
+ShitMyReviews,,The derivation is correct but too simple! The paper is therefore not suitable for a general readership.,2,1
+ShitMyReviews,,"Line 156-160; this is the only correct, sensible and interesting finding of the paper.",3,2
+ICLR,B14TlG-RW_R2,"Firstly , I suggest the authors rewrite the end of the introduction .",4,2
+Publons,QUA-2018-0203,"Comments to the Author
+ (There are no comments.)",1,1
+ICLR,,I would have expected the authors to use actual fallacious behavioral data which they might have in surplus,4,2
+ShitMyReviews,,I stopped reading here.,1,2
+Publons,VMS3-2020-Feb-0083.R2,"Please add some explanations about the following items: 
+ 1- Reporting the active ingredients of the sample of Pennisetum purpureum used in the diets. 
+ 2- In discussion, add some text and references related to the effects of various levels of dietary NDF and ADF on the measured parameters.",5,1
+ShitMyReviews,,Well written.,3,1
+ShitMyReviews,,"The word ""assesâ€ should read ""assessâ€",3,2
+ICLR,HymuJz-A-_R3,"This seems to contradict the later discussion , where they suggest that probably current architectures cannot handle such visual relationships .",3,1
+ICLR,HytSvlWRZ_R1,"- Figure 2 , synthetic data .",3,2
+Publons,ijerph-907857,"""Mannheimer JS & Rosenthal RM reported"" -> ""Mannheimer and Rosenthal [14] reported"" 
+ 
+
+ ""SPSS for Window program"" -> ""SPSS for Windows""
+ 
+
+ Please right-align numerical columns in tables for ease of comparison.
+ 
+
+ In Tables 2 and 3, please be consistent on whether or not to put a space before the letter in the columns NT, AT, and RT.
+ 
+
+ On line 186, the ~ should be a -- (ndash).",5,3
+ShitMyReviews,,I am personally offended that the authors believed that this study had a reasonable chance of being accepted to a serious scientific journal.,1,3
+ShitMyReviews,,"So overall we do not recommend a resubmission, but can let you try if you insist",3,1
+ShitMyReviews,,"I'm really sorry about this reviewer. If you'd like, I can get you a new one.",2,2
+Publons,VMS3-2020-Jul-0341,"1. note and mention in manuscript that blastocytes are collected from uterine tube note fallopian tube (line 79)  
+ 2. gene names must be written in italic form, please correct it  
+ 3. the number of sacrified mice and embryos in each group must be mentioned, please 
+ 4. please explain more about the injection process",5,2
+NIPS,651,"This paper studies a concept called dual policy iteration, a bunch of extensions from a theoretical perspective is provided. Albeit that several examples are provided to show the superiority of the proposed method, the evaluations are still not convincing. I would like to see if other two-policy strategy approaches (such as those mentioned in the second paragraph in âintroductionâ) can perform well, without that I can not judge the practical contribution of the presented work.",5,3
+ICLR,rywHCPkAW_R1,"Indeed , the confidence intervals are not plotted , and probably no conclusion can be reached because the curves are averaged only across three seeds !",4,1
+Publons,WE-20-0009,"- It is important to show the contribution of the paper. What are the benefits of the proposed method compared to existing methods?  
+ - what about the computational burden of the applied metaheuristic optimizer?  
+ - Compare with other control techniques.  
+ - what about considering the unbalanced nature of grid (https://onlinelibrary.wiley.com/doi/abs/10.1002/etep.1634)  
+ - Fix equations (27) and (28), and others.",4,2
+NIPS,478,"Interesting concept but not sure how relatively valuable the contribution is. Quality of the writing is good and creativity of the idea. No issues with novelty and clarity, and the authors have addressed data concerns with comparable experiments within the similar category. Some concerns with the data have already been outlined by the authors. It would have been nice to read further suggestions or solutions to address those concerns.",3,1
+ICLR,Hymt27b0Z_R3,""" This paper presents a new method for estimation of mutual information ( MI ) based on the Donsker Varhan ( DV ) representation of KL divergence .",3,3
+Publons,VMS3-2020-Feb-0059.R2,"The manuscript has improved after the first revision but is still lacking some more. It needs a deep revision of language and writing style. Some gramma mistakes have been detected, but there are still some that should be amended before the manuscript can be accepted for publishing. In addition, there are sentences that are not written in a scientific style.  
+ Many comments have been added to the pdf version of the manuscript. Please, go through them carefully in order to amend them.",5,2
+ICLR,rywHCPkAW_R2,"Why is it that , in deterministic environments , the network does not converge to a deterministic policy , which should be able to perform better ?",4,2
+ICLR,rywHCPkAW_R2,"From Fig.3 , one can see that having the same initial noise in all environments is not a good idea , so the second mechanism may help much .",4,2
+ShitMyReviews,,It is worth saying that I am not convinced that you contribute to the evidence base in this paper.,3,1
+Publons,ITEES-19-1341.R1,"This paper presents a good work. The topology and control methods have several advantages like fewer power devices, higher voltage gain, etc. 
+ I think more simulation results of the performance of the induction motor should be given in the next version. For example, the trajectory of flux linkage.",4,3
+ICLR,HyrCWeWCb_R2,"In experiments , why the off policy version of TRPO is not compared .",4,3
+ShitMyReviews,,proposal language is frightfully unclear.,2,3
+ICLR,HymuJz-A-_R2,So how should authors handle this criticism ?,1,3
+ICLR,Hymt27b0Z_R3,"Computing the DV representation also requires evaluating expectations wrt to the distributions of interest , the proposed method uses Monte Carlo estimates based on the empirical distributions .",3,1
+ICLR,rk9kKMZ0-_R2,( Assessment ) Clear rejection .,3,1
+ICLR,B1EA-M-0Z_R1,"Here , the sharing is essentially meaningless , because the variance of the weights in this derivation shrinks to zero .",4,1
+NIPS,251,The authors introduce,2,1
+ICLR,B12Js_yRb_R3,"this method is built on a series of heuristics without sound theoretically justification , and these heuristics cannot be easily adapted to other machine learning applications .",4,1
+ShitMyReviews,,Is this really a discovery or just the confirmation of math?,2,2
+Publons,M20040241.R1,"No further comments, the authors have my points",3,2
+ShitMyReviews,,"Many of the most serious errors are more or less just copied out from what he has read, so it is hard to know how to deal with such cases.",3,1
+Publons,ITEES-20-1668.R1,The authors have addressed all the questions and no comments,3,2
+ICLR,ryykVe-0W_R2,"Although finding novel GAN applications is an exciting topic , I am not really convinced that ICA with the proposed Wasserstein GAN based technique fulfills this goal .",2,1
+ICLR,B18WgG-CZ_R1,I would suggest adding some motivation for the focus on fixed length representations .,4,2
+ShitMyReviews,,"Is 'Tartarstan' a magical land where they make all the world's tartar sauce? If not, I can only assume the author is referring to the Russian republic of Tatarstan.",1,2
+ICLR,ryazCMbR-_R3,A second ( related ) concern is the lack of theoretical understanding of these new decoders .,3,1
+ICLR,HypkN9yRW_R1,The task isnt very challenging to learn because all the stack operations are already given .,2,1
+ShitMyReviews,,This paper does not contain information that could make a scientific proposal.,1,2
+NIPS,96,Can you comment on whether a pre-trained network is strictly necessary for your method or whether there is also the potential to train from scratch?,4,2
+ICLR,rytstxWAW_R3,It is by far the smallest dataset .,2,2
+Publons,ITEES-19-1536,"The paper is well-written. The subject and instructions are good. 
+ Please define a cost function and compare the proposed with other using diagrams.  
+ Please add more information about the application, especially the PV system and all of the conditions mentioned. 
+ Please compare with other topologies in terms of efficiency. 
+ Thank you",5,2
+ICLR,ryykVe-0W_R1,"There are fewer relevant comparisons here , but at least Lappalainen and Honkela ( 2000 ) seem to target the same problem as the proposed method .",3,3
+ICLR,rytstxWAW_R1,Theory : SGD requires an unbiased estimate of the gradient to converge to the global optima in the convex loss case .,2,3
+ShitMyReviews,,I cannot possibly imagine what could have led the authors to believe that their paper was remotely interesting enough to submit for publication.,2,1
+Publons,ITEES-20-1690.R1,The paper can be accepted.,3,2
+ICLR,BJ7d0fW0b_R2,"To me , there is a major flaw in the approach, the author.",1,1
+NIPS,603,"This paper provides theoretical analysis for effect of perturbations on network performance. In addition it also provides way of integrating these properties with network training by using them as a additional training loss. The paper is very well written, analysis are very clear and theorems are well organized and easy to read. Good job!",3,2
+ICLR,rkWN3g-AZ_R3,The new cartoon dataset is also a nice contribution .,4,2
+ICLR,Hymt27b0Z_R2,"The work is quite straightforward , but improves over similar work in the GAN space by Nowozin et al . by using Rudermans tighter variational representation instead of Nguyens one .",3,1
+Publons,VMS3-2021-Aug-0563.R1,Thanks for your rivision response.paper accepted,3,1
+ShitMyReviews,,"This is a misleading paper, badly executed and negligently written'",2,2
+ICLR,Hymt27b0Z_R1,"Since the MI is a scalar quantity , strong consistency is the same as ( weak ) consistency .",4,2
+ICLR,ryykVe-0W_R2,"The primary idea of the paper is to use the Wasserstein distance as an independence measure of the estimated source coordinates , and optimize it in a neural network ( NN ) framework .",3,3
+ICLR,B1NGT8xCZ_R1,""" This is a very well written paper that shows how to successfully use ( generative ) autoencoders together with the ( discriminative ) domain adversarial neural network ( DANN ) of Ganin et al .",3,2
+Publons,DOM-20-0981-OP.R1,All suggestions and comments of the reviewer were considered in the revised manuscript.,3,2
+Publons,DOM-19-0923-RA.R1,"The authors have responded adequately to my comments, which has also increased the volume of the review. I would still prefer a more condensed general part, though, as this is all true and comprehensive but also well-known. This would allow more focus on the novel glucagon part, as is now also reflected in the title. I propose this as a suggestion, depending on potential page limitations and the choice of the editor.",5,2
+ICLR,B17JTOe0-_R1,The paper is overall quite interesting and the study is pretty thorough : no major cons come to mind .,3,3
+ICLR,Hyp3i2xRb_R2,4 . The experimental results are not convincing .,4,1
+ShitMyReviews,,The manuscript embarrassingly fails in addressing the declared aims.,2,3
+Publons,VMS3-2020-Jul-0307.R2,Thank you for making all the reqested alternations to your text. There was one point which I raised which you don't seem to have addressed. I asked if the data was normally distributed and how this was determined. Please can you add this in to your statistics section of the methods. If the data is not normally distributed then you will need to use an alternative statistical method to analyse it. Thank you,5,3
+ICLR,SySpa-Z0Z_R2,"Well justified penalty , easy to connect to many generalisation bound claims .",3,2
+ICLR,B14uJzW0b_R1,"It was hard to read and understand their value , just because mostly the text was structured as one lemma after the other .",4,3
+ICLR,HymYLebCb_R1,The adjacency matrix ( or a subgraph of it ) is first re ordered to produce some canonical ordering which can then be fed into an image representation method .,3,1
+ShitMyReviews,,"Lots of work, effort, but no real science.",2,3
+Publons,ITEES-19-1560,"Nomenclature sections should be included. 
+ 3. The results should be more clarity to express what contribution in the industry sector and academic field with this research by considering all the studies. 
+ 4. What the significant findings/contributions are and why this paper is really important have not presented properly.",5,3
+ICLR,SySisz-CW_R3,""" The paper presents an application of a measure of dependence between the input power spectrum and the frequency response of a filter ( Spectral Density Ratio from [ Shajarisales et al 2015 ] ) to cascades of two filters in successive layers of deep convolutional networks .",3,2
+ICLR,HymYLebCb_R1,"Its surprising that it works at all , but ultimately doesnt reveal a big scientific finding that could be re used . """,2,1
+ICLR,HypkN9yRW_R3,"The paper writing , especially the DDR Architecture section needs improvement to make it easy to follow .",4,3
+Publons,VMS3-2021-May-0352,"This is an interesting and well written manuscript. Given the abundance of LH receptors in the canine thyroid and the fact that all of the dogs with thyroid cancer were spayed/neutered, I can't help but wonder if the mitogenic action of supraphysiologic LH concentrations following gonadectomy might have a role in the pathogenesis of thyroid cancers in dogs.",5,2
+ICLR,B1IDRdeCW_R2,"Besides , giving interesting observations, work is not good enough .",2,2
+NIPS,183,"This paper proposes to use HSGD with hard thresholding for L0 or rank constrained problems. The paper exhibits improved rates compared to state-of-the-art SVRG and SGD approaches, and proposes an accelerated variant using the heavy-ball method. Numerical experiments are convincing and illustrate the improvement compared to state-of-the-art baselines. I think that this is a good paper, which provides an interesting contribution to the field. ",3,1
+ShitMyReviews,,I did not attempt to understand Figure 2 because there was no motivation given for it,2,3
+ICLR,rytstxWAW_R1,"Also note that this is different from a more classical case of continuous distributions , where sampling from a Gaussian , for instance , will cover any domain of true distribution .",4,1
+ShitMyReviews,,"Maybe the clarity of stating the problem, purpose, method, finding, conclusion, and recommendation could be tweaked. Otherwise, congratulations on an outstanding contribution.",3,2
+ShitMyReviews,,[The methods section] reads more as if these explanations are put in to guide the authors themselves,3,1
+ICLR,rkWN3g-AZ_R1,"In addition , the combination is done in a careless manner .",2,1
+ShitMyReviews,,The supportive tone of this review... took some effort.,1,1
+ShitMyReviews,,"""I am not inclined towards suggesting acceptance, simply because I have not enough elements to do so.â€Significance: 7/10 Soundness: 8/10 Theoretical and Empirical Analysis: 8/10 Presentation: 9/10",1,1
+ICLR,HylgYB3pZ_R3,"Theorem 1,2,3 are direct conclusions from the definitions and are mis stated as Theorems .",3,2
+ShitMyReviews,,"It is at best of little value and, in the worst case, irrelevant and offensive",1,2
+ICLR,SySpa-Z0Z_R3,"5 seems broken , the last integral has two dydt terms , also the inequalities in that equation seem incorrect .",4,1
+ICLR,B1al7jg0b_R2,Being less grandiose would make the value of this article nicely on its own .,3,3
+Publons,ITEES-20-0680.R1,"1. The title of this paper is too big which should be more specific.  
+ 2. Some English grammar mistakes have been found. This paper needs proofread.  
+ 3. The quality of the figures should be improved.",5,3
+ShitMyReviews,,This is all science done by wishful thinking.,1,1
+ICLR,rywHCPkAW_R3,""" A new exploration method for deep RL is presented , based on the idea of injecting noise into the deep networks weights .",3,2
+ShitMyReviews,,Probably switching to Bayesian stats will be too difficult for many scientists and especially students in the less intelligent fields (e.g. psych),3,3
+ICLR,SySisz-CW_R1,"The authors claim that their analysis demonstrates a different characterisation of the inference/discriminator and generative networks in VAE and GAN , whereby the former are anti causal and the latter are causal in line with the ICM framework .",3,2
+ShitMyReviews,,Unfortunately I was hoping for more.,2,3
+Publons,VMS3-2021-Aug-0563.R1,Accept,3,3
+ICLR,HyrCWeWCb_R2,Another issue is the discussion of the entropy regularization in the objective function .,4,2
+ShitMyReviews,,The manuscript in the present form is not a review article but is rather a number of research papers stapled together.,3,2
+ICLR,SyUkxxZ0b_R1,The authors make a big deal throughout the paper about how close to training data the adversarial examples they can find on the data manifold are .,3,3
+ShitMyReviews,,There are not enough headings.,2,1
+ShitMyReviews,,"Reviewer 1: 'I really enjoyed reading the introduction'Editor in chief: 'In line with Reviewer 1's comments, the introduction does not a good job of citing the important historical litterature and putting this study in context'",2,3
+ICLR,B1CNpYg0-_R3,"While this argument has intuitive appeal , it seems to fly in the face of the fact that actually spelling models , including in this paper , seem to do surprisingly well at learning such arbitrary semantics .",3,2
+ICLR,rytstxWAW_R3,Im even slightly suspicious that something might have been amiss in your setup .,2,3
+ICLR,ryserbZR-_R1,"Previous publications have used MIL training on tiles with only top level labels [ 1,2 ] and this is essentially an incremental improvement on the MIL approach by using several instances ( both min negative and max positive ) instead of a single instance for backprop , as described in [ 3 ] .",3,1
+ShitMyReviews,,The authors need to add a level of puzzlement to their interpretations,4,2
+ICLR,HyrCWeWCb_R3,It would be much clearer if a detailed description of the algorithmic procedure is given .,4,3
+ICLR,Hyp3i2xRb_R3,"5 ) I think what enables the training of very deep networks or LSTMs on long sequences is the presence of a ( close to- ) identity component in forward/backward propagation , not the gating .",2,1
+ShitMyReviews,,"In addition, your figures are provided at 72 dpi, which is fine for children's games, but professional quality images require 300 dpi. Also, the images should be cropped to the actual image area (not embedded in a sea of white space).",3,1
+ICLR,B1Lc-Gb0Z_R1,It seems that Re LU and Saturated Re LU are included to show the performance of networks with full precision activation functions ( which is good ) .,3,2
+ICLR,B1G6uM0WG_R1,"If it were , this would be a much sought breakthrough .",3,2
+ICLR,B12Js_yRb_R2,Strengths - The proposed model begins with reasonable motivation and shows its effectiveness in experiments clearly .,3,3
+ICLR,B1Gi6LeRZ_R3,""" The propose data augmentation and BC learning is relevant , much robust than frequency jitter or simple data augmentation .",3,1
+ICLR,rywHCPkAW_R1,Unfortunately this experiment seems to be done in a hurry .,2,1
+ICLR,Hyp-JJJRW_R3,The training objective is then changed to minimize the sum of the classification loss ( as measured by cross entropy for instance ) and the reconstruction error ( as measured by ell 2 error as is done in training auto encoders ) .,3,1
+ICLR,B1CNpYg0-_R3,"In general , for the scope of the paper , it seems like what is here could fairly easily have been made into a short paper for other conferences that have that category .",3,3
+ICLR,ryykVe-0W_R3,""" The idea of ICA is constructing a mapping from dependent inputs to outputs ( = the derived features ) such that the outputs are as independent as possible .",3,3
+NIPS,375,"The main concern I have is that whether an RBM prior is necessary or the best choice given its complication. To this end, it would be more informative to compare with an auto-regressive prior where each conditional could be relaxed into a concrete distribution (e.g. parameterized by an RNN or (dilated) CNN with comparable parameter size). Since the auto-regressive prior can yield the exact probability, training can be directly performed with the IWAE objective. In terms of the sampling, an auto-regressive prior and an RBM prior could be similarly slow.  Overall, I think this is an interesting paper with positive empirical results. However, whether the RBM prior is a necessary or the best choice is not clear yet.  ",5,1
+Publons,ITEES-19-1584.R1,All the important modifications have been incorporated and the paper should be accepted.,3,3
+Publons,JCOP-20-035.R1,"The article has social and academic relevance on a topic that has not yet been investigated in the Brazilian context. 
+ This study provides data that contribute to the area in question and may contribute to future scientific interventions. 
+ Thus, I believe that the changes made by the authors contributed to the theoretical and methodological improvement of the referred manuscript.",3,1
+ShitMyReviews,,This review is without a doubt the single most difficult one I have had to write so far.,1,2
+Publons,ITEES-20-2083.R1,The reviewer appreciates the authors' revisions. This paper has been replied well.,3,2
+ShitMyReviews,,This [sentence] construction should be reserved for police procedurals and bad Mafia movies.,1,1
+ICLR,Hymt27b0Z_R1,Detailed Review ====================================================================== Why is this called an online MI estimator ?,2,1
+ICLR,HymuJz-A-_R2,Quality : Im intrigued by but a little uncomfortable with the generalization metrics that the authors use .,3,1
+NIPS,963,"However, I think that taking bonus as KL-divergence of current policy and past policy is much closer to perturbing policy with a parameter space noise. Both the methods encourage the change in policy function itself, rather than changing the output of policy. I think this point is crucial to the understanding of the proposed bonus formulation and should be properly discussed.",5,2
+ShitMyReviews,,The supportive tone of this review... took some effort.,2,1
+ShitMyReviews,,"The final section illustrates the paper's poverty. Instead of a summary of the intellectual issues addressed, we are given a series of bland recommendations, the sort of banality that civil servants write for their masters' speeches. It has no place in a serious academic journal.",2,3
+ICLR,BJ8c3f-0b_R1,"There are a few things I think could be cleared up , firstly, your ideas and secondly, your muddle.",1,2
+ICLR,BJ7d0fW0b_R3,Are these the results after all authors careers had converged ?,1,3
+ShitMyReviews,,"The title of the paper indicates that the study was an RCT, but was it?",2,2
+ICLR,Hymt27b0Z_R1,The authors present some applications for the proposed estimator .,3,2
+ShitMyReviews,,Unless the authors performed some clever pagan ritual before euthanizing the animals I would use 'killed' (or 'euthanized') instead of 'sacrificed',1,1
+ICLR,B1DmUzWAW_R2,"In retrospect , I wish the authors would have spent more time doing ablation studies than tackling more task domains .",3,2
+ICLR,Hymt27b0Z_R3,More details should be provided on the results presented in table 3 .,4,3
+ShitMyReviews,,"Not now, not ever.",1,2
+ShitMyReviews,,"The data as presented is not very convincing, even to a believer.",3,1
+ICLR,B1EVwkqTW_R1,The writing also needs to be improved .,3,2
+ShitMyReviews,,"It will be a fantastic work if the authors could deeply presented the dominating of study discussed in detail and less overstaffed on the majority of studies discussed, which may give necessary details in tables to show their similarities or differences, as well as, advantages or disadvantages by your own letters.",5,1
+ICLR,rytstxWAW_R1,I think that batch training of GCN is an important problem and authors have proposed an interesting solution to this problem .,4,1
+ICLR,HytSvlWRZ_R1,"Overall , the proposed methods seems to provide little added value to the large amount of predictive methods proposed so far for prediction in neurodegenerative disorders .",4,2
+ShitMyReviews,,The authors are perpetuating misguided generalizations in the face of substantial experimental data to the contrary,2,3
+ShitMyReviews,,claiming 'insights' that rarely amount to very much beyond the bleeding obvious. [..] the problem with jargon is that 'any idiot can pick it up and have a go,2,2
+ICLR,B13njo1R-_R3,"ICLR does not have a strict page limit , and the figures you have are hard to impossible to read .",4,2
+ICLR,SyUkxxZ0b_R1,"However , distance between two random points on the sphere is not the right comparison .",3,3
+ShitMyReviews,,"The underlying science here is quite interesting, but the presentation does its best to disguise it",3,2
+ICLR,B1Lc-Gb0Z_R3,"- The result of this is another algorithm ( I guess the main result of the paper ) , which is strangely presented in the appendix as opposed to the main text , which has no such guarantees .",4,1
+ICLR,B16_iGWCW_R2,Thus the learned weak learner at this round will make different mistakes .,4,1
+ICLR,B1DmUzWAW_R1,"Overall , the proposed approach is novel and achieves good results on a range of tasks .",3,2
+ICLR,B1D6ty-A-_R2,The authors seem to use the idea that solving a GLM problem is a quasi convex optimization problem .,3,3
+NIPS,639,Quality - This is a good quality paper; thorough and rigorous for most parts.   Clarity: The paper is clear and well-written.   Originality: The paper presents original work.   Significance: I think the paper presents significant results that are relevant to this community.   Strength: I believe the main strength of the paper is the carefully designed and principle method for obtaining Lipschitz continuous upper and lower bound on the value function of a POMDP.,5,2
+ICLR,rkeDJ04Mf_R3,I believe this paper to be borderline .,3,2
+Publons,VMS3-2020-Jul-0300,I have attached comments,3,2
+ICLR,rylejExC-_R2,Significance : Not very significant .,2,2
+Publons,VMS3-2020-Aug-0390.R1,"This article appears as second round of revision from a Morpho Journal. The corrections highlighted on the text are well organized.  
+ I have one issue to suggest to authors: bring to the abstract some anatomical description found at the resultds chapter. As large or small sinus, even simple description of the structures.",5,2
+Publons,M21030158,"This is very clear manuscript. The major issue is understanding the mechanism. It is salient that predictors of APR are really predictors of two things. One element is APR and the other is likelihood of reporting it. This could be done by examining the predictors of APR in the zol arm (which will include both elements) and placebo arm (which will include mainly a self reporting element) and seeing if the predictors are different. Otherwise, this is an excellent paper.",5,2
+Publons,ELE-00963-2021,See attachment,3,1
+ICLR,B16_iGWCW_R1,"And crudely speaking , you can think of a class weight to be the expectation of its sample weights and you will end up in a similar setup .",4,1
+Publons,WE-19-0166,Please see attached review file.,3,1
+ICLR,B17JTOe0-_R3,Dead reckoning,1,1
+ShitMyReviews,,They arbitrarily rule out models with interactions but without corresponding main effects. Etc.,2,2
+ICLR,Hyp3i2xRb_R2,Where is your background material ?,4,3
+ShitMyReviews,,"I am concerned that the author is not getting the advice that she needs in order to produce a publishable paper, and I hope that my comments are read in the spirit in which they are intended; that is, constructive criticism to produce a better final product.",3,2
+ICLR,B11bwYgfM_R3,But I believe there are important drawbacks in the framing and basic methodology and evaluation which make the paper unfit for publication in its current form .,2,2
+Publons,DOM-19-1315-OP.R1,None,1,3
+ShitMyReviews,,The supportive tone of this review… took some effort.,1,2
+ShitMyReviews,,"This is a very difficult paper to review, and difficult - even painful - to read",2,3
+ShitMyReviews,,"Please also consider making the submission looking less like an advertising booklet rather than a research paper—at least, try not to mention the XXX system in every paragraph.",2,2
+ICLR,SySpa-Z0Z_R2,"From theoretical perspective : The main claim in this paper seems to be ( 10 ) , however it is not formalised in any form of theorem , and so -- lacks a lock of strictness .",4,2
+Publons,ITEES-20-1765.R1,Thanks for addressing the reviewers' recommendation.,3,3
+Publons,VMS3-2019-Nov-0322,"The case report is very interesting and brings new information about co-infections among wild animals. However, I would like to ask why other viruses were not search, such coronavirus, for example. The clinical material was not suitable for cell isolation? Even for pseudorabies virus? Is the case to look for Morbillivirus? . There are questions that not interfere in what have been done, but is important to include.",5,2
+ShitMyReviews,,The authors should at least try to read some of the previous work in the field before attempting to solve our problems.,2,2
+ShitMyReviews,,"I think this article is carefully argued, but at no moment is it stated that Heidegger was a Nazi.",1,1
+ICLR,B14uJzW0b_R1,"The paper reads like a collection of lemmas , with no verbose connection .",3,2
+Publons,VMS3-2021-Jun-0421,"1.Are the samples sequenced? If yes, it will be significant with phylogenetic examination of species with other species. Please add this to refill if possible.  
+ 2.In the working method section, by adding the reference below, the parasitic amount of the slides should be inserted.  
+ 3.It is better to add a paragraph to the characteristics of Babesia species in the introduction.  
+ 4.Re-check structurally and grammatically.",5,2
+Publons,ACP-2021-9818,"Dear authors. 
+  
+ Thank you for addressing my points. 
+ I have no further comments. 
+  
+ Kind regards",3,2
+Publons,JCOP-21-377,"The article addresses a very sensitive issue with respect to the figure of caregivers in time of COVID-19. Current article, deals accurately and completely with this topic. need for some minor revisions",3,1
+ICLR,B1CEaMbR-_R1,Therefore the impact or actual contribution to the ICLR community is very limited .,2,1
+ShitMyReviews,,If you want to solve a puzzle you could just do sudoku.,1,1
+ICLR,Hyp-JJJRW_R1,Should it allow better classification performance ?,3,3
+ICLR,B1CEaMbR-_R3,"Also , it overall rather appears short .",2,3
+ShitMyReviews,,This proposal left me cold,1,3
+ICLR,rypT3fb0b_R3,"Also , why is the first example reporting accuracy , but the second example reports error ?",4,2
+ShitMyReviews,,This sentence is so hard to digest it gave me reflux,2,3
+ICLR,HypkN9yRW_R3,"It would be good if authors could comment on how can the proposed model be used to answer natural language questions about images , such as , those in the VQA dataset ( Antol et al . , ICCV 2015 ) .",5,2
+ICLR,rytNfI1AZ_R2,"The authors include a few other methods for comparision , but I think it would be very helpful to include also some methods that use a completely different approach to reduce the memory footprint .",4,2
+ICLR,B14TlG-RW_R1,"Be consistent, mercurial minds.",1,1
+ICLR,rywHCPkAW_R2,The paragraph above Fig3 raises important questions which do not get a satisfactory answer .,3,1
+ICLR,BJIgi_eCZ_R1,Not easy to understand nor concrete .,2,3
+ShitMyReviews,,"The candidate demonstrates no understanding of the subject matter and his proposal title is misleading. Furthermore, his career prospects are unclear.",2,1
+ICLR,ryserbZR-_R1,Automated gastric cancer diagnosis on H&E stained sections ; training a classifier on a large scale with multiple instance machine learning .,3,2
+ShitMyReviews,,You were either in a rush or you do not care too much about getting your paper accepted,1,1
+ICLR,BJE-4xW0W_R2,"There is a risk that in its current state the paper will not generate much impact , and that would be a pity .",2,3
+ShitMyReviews,,"Indeed, by the end of the paper, the reader is left with a feeling of 'so what now?'",3,1
+ShitMyReviews,,"Since this is a model formulation paper, there does not need to be aÂ Results section, but if there were, the paper would be easier to follow. There really is no formulation of a model",4,1
+ShitMyReviews,,"The turn of phrase ""reaching out into the worldâ€; is again just a vague rhetorical equivocation that is meant to add a semblance of an intellectual air to the text, a rhetorical attempt at being in fashion, but it dissolves only in empty intellectualism.",3,1
+ICLR,HypkN9yRW_R2,"In Figure 4 , why are the LSTM32/128 curves different for Length 10 and Length 30 till subproblem index 10 ?",3,2
+ICLR,B18WgG-CZ_R2,"I disagree with the response , though , that the authors can lean on other papers to help fill in the ablationevery paper in this area uses subtly different configurations .",3,2
+ICLR,HyunpgbR-_R1,"- It is not clear what is really meant with the term "" structured exploration "" .",3,3
+Publons,DOM-20-0479-OP,"This is a very interesting article, well written, and covering the most important effect of testosterone therapy on metabolism, body composition and mortality risk. 
+  
+ However, considering the great change in body weight (-19.3 Â± 0.4) during the treatment it should be explained the nutritional condition or if patients followed a calorie restricted diet and made physical exercise.",4,2
+Publons,VMS3-2021-Jul-0515.R1,"have you obtained consent, albeit verbally, from an ethics committee?  
+ or specify that the study was carried out, in accordance with European law (O.J. of E.C. L. 358/1 12/18/1986), and USA laws (Animal Welfare Assurance No A5594-01, Department of Health and Human Services, USA) in accordance with the Legislative Decree n. 193 of 6th April 2006.",5,2
+ShitMyReviews,,The rest of this review operates from the assumption that this paper is a sincere attempt at scientific evidence and argument.,2,1
+ICLR,B1CQGfZ0b_R1,I feel that this is something the authors should at least study the topic themselves and then compare to in the empirical evaluation .,1,1
+ShitMyReviews,,it is not clear whether important new insights will be gleaned - it cannot be clear until the final product of his research is reviewed.,2,1
+NIPS,808," A weakness is the need of two new hyperparameters, i.e. k and q. Although, it seems that a default choice worked well throughout all experiments.  It would be helpful to know more about the additional computational cost due to the pruning step. How slower is training? Moreover, I think that some details about the proposed alternating optimisation are omitted.",5,1
+ICLR,HymYLebCb_R3,"Fundamentally , a convolutional filter stands for a operation within a small neighborhood on the image .",3,2
+ICLR,SySpa-Z0Z_R2,""" This paper tries to create a mapping between activation norm penalties and information bottleneck framework using variational dropout framework .",3,2
+ShitMyReviews,,"There is too much detail provided which is not relevant to the paper, or any for that matter.",3,3
+ShitMyReviews,,"And the Vygotsky reference is a straight-up drive-by citation, adding nothing except whatever luster he adds to the authors' claims.",3,2
+ICLR,B11bwYgfM_R3,"I also think that the authors might benefit from dropping the whole few shot learning angle here , and instead do a more thorough job of evaluating their multitask learning method .""",4,1
+ICLR,BJE-4xW0W_R2,a misleading formulation .,4,3
+Publons,VMS3-2020-Oct-0481,"Dear authors,  
+ The review article needs a lot of improvements in terms of ideas, sections arrangements, as well as language. Please check the attached file.",4,1
+NIPS,130,The paper presents novel reinforcement learning algorithms for environments with rich observations. The paper lacks experiments but has some theoretical justifications. Impact of the submission is thus unclear to me.,2,1
+ICLR,Hyp3i2xRb_R1,"- Significance : While looking at RNN from an iterative estimation is interesting , the experimental part does not really show what are the advantages of the propose RIN .",4,2
+ShitMyReviews,,I don't think this study would add anything to either theory or practice,2,1
+ShitMyReviews,,"This is a potentially interesting problem. Yet, not all potentially interesting problems are useful, such as this one.",2,2
+ShitMyReviews,,"The research claims these phenomena are ""understudied,â€ as though there is some amount of study they should endure.",2,2
+ICLR,HymuJz-A-_R1,I do think that breakdown of networks by testing on increasing image variability is expected given that there is no reason that networks should generalize well to parts of input space that were never encountered before .,4,2
+Publons,VMS3-2020-Dec-0585.R1,"Thank you for addressing my concerns.  
+ I still suggest minor changes that you can do at the time of Proof Editing.  
+ L 166: please add ""stenotic"" before healing  
+ L280: please reference this statement  
+ L288, L291: please avoid to use the term ""random"" flaps as it is not appropriate definition. Replace random with local. Please check throughout the text.",5,1
+ShitMyReviews,,"The odds ratios in Table 2 are like the plains of Kansas: flat, flat flat!",3,2
+ShitMyReviews,,This code sample cannot be adequately described without the use of strong language.,1,3
+ICLR,B1EVwkqTW_R1,"In my opinion the introduction of SVM can be shortened , and more focuses can be put on related deep learning methods and few shot learning . """,5,1
+ICLR,B16yEqkCZ_R3,""" The paper studies catastrophic forgetting , which is an important aspect of deep reinforcement learning ( RL ) .",3,1
+ShitMyReviews,,The authors avoid making mistakes in the analysis of the data by not making any.,1,2
+Publons,ITEES-20-0412,"This manuscript introduces the methods of cogging torque suppression, such as skew, pole arc offset, fragmented magnet structure, opening notch on magnet and stator, and slot opening, but they are all very common methods to suppress cogging torque, and the authors did not show the difference from the existing references. The innovation of this manuscript is insufficient.",4,2
+ICLR,rytstxWAW_R3,"3 . As a concrete step towards grounding the proposed method on state of the art results , I would love to see at least one experiment with the same ( original ) data splits used in previous papers .",4,3
+ShitMyReviews,,The stimuli are impossible to compute.,2,1
+ICLR,SySaJ0xCZ_R3,I think further work is required ( perhaps expanding the search space ) to resolve the current limitations of automated architecture search .,4,3
+ICLR,rkPLzgZAZ_R1,"This necessarily introduces a number of Overall , I am not sure what I have learned with this paper .",2,2
+ShitMyReviews,,Preliminary and intriguing results that should be published elsewhere.,2,2
+ICLR,ryjw_eAaZ_R1,"However , the reviewer indeed finds a major technical flaw in the paper .",3,2
+ICLR,Hymt27b0Z_R1,"In Algorithm 1 , why do the samples have to be inside the loop ?",4,2
+ICLR,B16yEqkCZ_R1,The motivation in the appendix is very informal and no clear derivation is provided .,3,3
+ICLR,ryykVe-0W_R2,"In other words , estimating the joint dependence of the source coordinates is not necessary ; it is worthwhile to avoid it .",4,2
+ICLR,HytSvlWRZ_R1,"The scale of the improvement of the subspace difference is quite tiny , in the order of 1e 2 when compared to U , and of 1e 5 across iterations .",4,3
+ICLR,HyrCWeWCb_R1,- Trust PCL ( off policy ) significantly outperform TRPO in terms of data efficiency and final performance .,3,2
+Publons,VMS3-2020-Apr-0154,It may be useful to briefly describe how the ELISA test is performed.,4,1
+ShitMyReviews,,"suggesting much but saying nothing of import, the sort of balderdash that is in the vernacular often compared to the waste of certain male ruminants.",1,2
+NIPS,630,"The introduction claims that ""these shape constraints do not require tuning a free parameter"". While technically true, the *choice* of employing a convex or concave constraint, and an increasing/decreasing constraint, can be seen as a hyperparameter that needs to be chosen or tuned. ",4,3
+ICLR,rytstxWAW_R3,I had already absorbed the original notation and had to go back and forth to translate to the new one .,2,2
+ShitMyReviews,,"In any aspect that this paper is different from XXX et al., (20XX), it shouldn't be",2,2
+NIPS,50,"The S2V-DQN baseline is quite weak. Out of the considered learning based approaches (ie NCO, ASTSP, the authors' method and S2V-DQN), S2V-DQN is the only method that considers a single solution.  NCO and ASTSP can easily consider multiple solutions (by sampling) but it looks like the authors use the greedy version ASTSP only (this is hard to tell from the rebuttal but given that ASTSP solves 0% while random search solves 12.7% this seems to be the case).",5,1
+ShitMyReviews,,I would suggest the authors to have some native English speaking to go through it,1,2
+ShitMyReviews,,"Why don't you just send copies of this to the two people in the world who care about it, and forget the publication route?",1,2
+ICLR,HylgYB3pZ_R3,"Further , the phenomenon is only tested on random initialization .",3,1
+ICLR,B12Js_yRb_R1,- The paper doesnt study a simple baseline that just does NMS on the proposal domain .,4,2
+ICLR,Hyp3i2xRb_R2,""" Here are my main critics of the papers : 1 .",2,1
+ShitMyReviews,,"The introduction, general approach and data analyses are somewhat anachronistic–this study would have been really interesting 10-15 years ago, but now it seems quite out of date.",2,1
+ICLR,rytNfI1AZ_R2,""" The authors propose to train neural networks with 1bit weights by storing and updating full precision weights in training , but using the reduced 1bit version of the network to compute predictions and gradients in training .",2,1
+NIPS,630,"Unless I missed something, unconstrained neural nets are still often the best model on half of the tasks. After thinking about it, this is not surprising. It would be nice to guide the readers toward acknowledging this.  - Notation: the x[d] notation is used in eqn 1 before being defined on line 133. ",4,2
+ShitMyReviews,,N/A. (Full review text),1,1
+ICLR,rywHCPkAW_R1,"However for some games , the weights of the penultimate layer seem to increase .",3,2
+ICLR,B13njo1R-_R3,But I find the paper lacking a lot of details and to some extend confusing .,3,2
+Publons,DOM-20-0185-OP,"Excellent paper. Well analyzed and well written. 
+  
+ To ease readability, propose you include in the title of each figure it's outcome - i.e. - A - changes in HbA1c and also include the units. While this may not be mandatory for the main paper if the legends appear besides the figures, it would be very useful in the supplement.",4,1
+ShitMyReviews,,"But fundamentally, why did you bother?",1,2
+ICLR,rywHCPkAW_R1,2 Noisy Net reduces the number of hyperparameters .,3,1
+ICLR,HypkN9yRW_R2,"Overall : I think the research work in the paper is interesting and significant , but given the current presentation and level of detail in the paper , I dont think it will be helpful for the research community .",2,2
+Publons,ACP-2021-9994.R1,"Thank you for the opportunity to review this interesting paper. It can be accepted to publication; however, in your eFigure 1, in the 'Excluded' box, the text still seems to be cut ('Suicide attempt not recorded in ED or' is what I see in a pdf file and I cannot see what's after 'or'). Please make sure to check it.",3,1
+Publons,ITEES-19-1107.R1,"In the new version presented by the authors, the paper conforms to the standards in structure and in nomenclature. However, this reviewer noted that there are still some paragraphs using the word substation to transformer (see, for example, Figure 1). However, for this reviewer the paper is now complete.",4,1
+ICLR,HymuJz-A-_R2,"However , this suspicion on my part is actually a reason I think it might be * good * for this paper to be published at ICLR .",2,1
+ICLR,HymYLebCb_R2,A novelty of this work seems to be transforming a graph into an image .,3,2
+ICLR,B14TlG-RW_R2,The current version tends to mix everything together and makes the misleading claim .,3,2
